@@ -1,2 +1,5 @@
-fastapi
-uvicorn
+streamlit
+streamlit-webrtc
+opencv-python-headless
+pyzbar
+pandas
