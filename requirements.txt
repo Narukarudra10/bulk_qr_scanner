@@ -1,1 +1,3 @@
-pip install fastapi uvicorn html5-qrcode
+fastapi
+uvicorn
+html5-qrcode
