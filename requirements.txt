@@ -1,5 +1,6 @@
 streamlit
 streamlit-webrtc
+tornado==6.1
 opencv-python-headless
 pyzbar
 pandas
