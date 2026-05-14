@@ -1,3 +1,2 @@
 fastapi
 uvicorn
-html5-qrcode
