@@ -1,1 +1,3 @@
 libzbar0
+zlib1g-dev
+libjpeg-dev
